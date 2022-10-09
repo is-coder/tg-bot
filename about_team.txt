@@ -1,1 +1,1 @@
-Developer1: Ismet Djemilev
+Developer1: Ismet Djemilev. I'm starting to work on first branch.
