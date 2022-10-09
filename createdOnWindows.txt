@@ -1,6 +1,7 @@
 eadasdaws
 it was created manually.
-if 7> 0 typed in github
+if 7 > 0
+    typed in github
 updated in pycharm.
 88888888
 99999
