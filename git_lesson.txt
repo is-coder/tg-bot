@@ -1,0 +1,7 @@
+1. Checkout local master
+2. Update it.
+3. New branch from master
+4. develop your code/feature
+4.1 pull into current branch from REMOTE master using MERGE (OPTIONAL)
+5. commit and push your local changes
+6. go to github and create a Pull Request (if it is not created)
